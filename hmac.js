@@ -1,4 +1,4 @@
-var Utf8 = require('cook-code-jazor-encoding').utf8;
+var Utf8 = require('jazor-encoding').utf8;
 module.exports = function(algorithm, blocksize, data, key, ra) {
 	var ipad = [],
 		opad = [];

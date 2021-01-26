@@ -1,6 +1,6 @@
 {
   "name": "jazor-digests",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "md5,sha1,sha256,hmacmd5,hmacsha1,hmacsha256 for javascript",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/cook-code-jazor/digests.git"
   },
   "dependencies": {
-    "cook-code-jazor-encoding": "^1.0.0"
+    "jazor-encoding": "^1.0.0"
   },
   "keywords": [
     "md5",
