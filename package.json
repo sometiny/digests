@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/cook-code-jazor/digests.git"
   },
+  "dependencies": {
+    "cook-code-jazor-encoding": "^1.0.0"
+  },
   "keywords": [
     "md5",
     "sha1",

@@ -198,8 +198,7 @@ var n = function(M, ad) {
 		return I.toLowerCase()
 	}
 };
-exports.md5_bytes = n;
-exports.md5 = function(q, r) {
+exports.MD5 = function(q, r) {
 	if (typeof q == "string") {
 		q = Utf8.getByteArray(q)
 	}
