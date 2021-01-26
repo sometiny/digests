@@ -1,0 +1,27 @@
+{
+  "name": "jazor-digests",
+  "version": "1.0.0",
+  "description": "md5,sha1,sha256,hmacmd5,hmacsha1,hmacsha256 for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cook-code-jazor/digests.git"
+  },
+  "keywords": [
+    "md5",
+    "sha1",
+    "sha256",
+    "hmacmd5",
+    "hmacsha1",
+    "hmacsha256"
+  ],
+  "author": "anlige",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cook-code-jazor/digests/issues"
+  },
+  "homepage": "https://github.com/cook-code-jazor/digests#readme"
+}
